@@ -1,0 +1,32 @@
+/*font-family: 'Inconsolata', monospace; font-family: 'Oswald', sans-serif;*/
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    text-align: center;
+    width: 1024px;
+}
+.header {
+    border: 1px black solid;
+    width: 1024px;
+    height: 426px;
+    margin-bottom: 40px;
+    background-image: url(/images/code.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+}
+.Logo-de-Git {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.codigo {
+    width: 1024px;
+}
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+p {
+    font-family: 'Inconsolata', monospace;
+}
